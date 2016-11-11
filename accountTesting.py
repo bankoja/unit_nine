@@ -1,4 +1,5 @@
-
+# James Bankole 11/11/16 Unit 9 Project
+# This program has a class that models a banking system and then a second program testing it.
 
 import account
 
